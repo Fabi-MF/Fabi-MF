@@ -1,16 +1,19 @@
-## Hi there 👋
+#Olá :wave:
 
-<!--
-**Fabi-MF/Fabi-MF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##Me chamo Fabiana :upside_down_face:
 
-Here are some ideas to get you started:
+:female_detective: Estou entrando nesse desafiador mas empolgante mundo que é a programação;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:seedling: Disposta e ansiosa a aprender e descobrir novos conhecimentos.
+
+:mortar_board: Cursando Análise e Desenvolvimento de Sistemas.
+
+<table>
+<td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabi-MF&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
+    </table>
