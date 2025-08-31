@@ -1,6 +1,6 @@
-#Olá :wave:
+# Olá :wave:
 
-##Me chamo Fabiana :upside_down_face:
+## Me chamo Fabiana :upside_down_face:
 
 :female_detective: Estou entrando nesse desafiador mas empolgante mundo que é a programação;
 
