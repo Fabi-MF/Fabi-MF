@@ -18,8 +18,6 @@
       </table>
 
 <hr> 
-      <div align="center"> 
-       <img src="https://github.com/user-attachments/assets/2030786e-3d2e-4bfc-910e-3fab9d7af7be" width="200">
-      </div>
+     
      
    
