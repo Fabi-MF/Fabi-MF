@@ -11,16 +11,6 @@
 :mortar_board: Cursando Análise e Desenvolvimento de Sistemas.<br> *Studying Systems Analysis and Development.*
 
 <hr> 
-<div align="center">
-  
- 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fabi-MF&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabi-MF&layout=compact&langs_count=6&theme=dracula"/>
-  
-</div>
-
-
-
 <hr> 
      
      
